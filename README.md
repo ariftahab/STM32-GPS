@@ -131,3 +131,7 @@ Presentation/              project report with hardware photos and IDE screensho
 The UART ring buffer (`UartRingbuffer.c/.h`) is based on the library by
 [Controllerstech](https://controllerstech.com/). The NMEA sentence filtering in the main loop and the
 `get_nmea_field()` parser were written for this project.
+
+## Author
+
+Arif Taha Bülbül — [LinkedIn](https://www.linkedin.com/in/arif-taha-b%C3%BClb%C3%BCl-824a451b4/)
